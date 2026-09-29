@@ -1,8 +1,5 @@
-Yes — you mean you want the **actual Markdown text**, without the extra formatting that makes it look like a code block.
 
-Here it is:
-
-# Bank Management System
+   # Bank Management System
 
 A Python-based console banking application developed as part of the **Introduction to Problem Solving and Programming** course at **VIT Bhopal**.
 
